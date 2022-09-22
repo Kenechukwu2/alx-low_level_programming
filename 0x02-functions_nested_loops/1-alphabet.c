@@ -2,7 +2,7 @@
 
 /**
  * print_alphabet - print alphabet
- * 
+ *
  * Return: void
  */
 
